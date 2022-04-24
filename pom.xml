@@ -12,6 +12,7 @@
 
     <modules>
         <module>homework-base</module>
+        <module>homework-Guminov-Georgy</module>
     </modules>
 
     <build>
